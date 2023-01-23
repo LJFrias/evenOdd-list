@@ -1,4 +1,4 @@
-let userWord = ""
+let usersWord = ""
 let oddList = document.getElementById("odd")
 let evenList = document.getElementById("even")
 
